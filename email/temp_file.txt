@@ -1,0 +1,1631 @@
+<!doctype html>
+<html lang="zh">
+<head>
+  <meta name="baidu-site-verification" content="FZaFjiyXXl" />
+  <meta charset="UTF-8">
+  <title>研究生招生信息网_研招信息网_研招网_考研帮（kaoyan.com）</title>
+  <meta name="keywords" content="研究生招生信息网,研招信息网,研招网">
+  <meta name="description" content="考研帮研招信息网，中国最权威的考研院校专业库，提供考研者查询考研分数线，研招调剂信息，招简，导师，院系信息介绍等研究生招生信息。。">
+  <link rel="shortcut icon" href="http://www.kaoyan.com/favicon.ico"/>
+  <link href="http://img.kaoyan.com/global/style/header.css" rel="stylesheet">
+<link href="http://img.kaoyan.com/yz/style/yz.index.css" rel="stylesheet">
+<link rel="stylesheet" href="http://img.kaoyan.com/css/pc/adsys/style.css">
+  <script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+  <base  target="_blank"/>   
+
+</head>
+<body>
+<div class="kyHd">
+    <div class="kyTop">
+        <script src="http://img.kaoyan.com/www/header-yz.js" type="text/javascript"></script>
+        <script src="http://img.kaoyan.com/www/headera.js" type="text/javascript"></script>
+        <script src="http://dup.baidustatic.com/js/ds.js" type="text/javascript"></script>
+    </div>
+</div>
+<div class="headerAd"><script type="text/javascript">BAIDU_CLB_fillSlot("2458900");</script></div>
+<ul class="nav">
+        <li class="cur"><a href="http://yz.kaoyan.com/" title="研招网">研招网</a></li>
+        <li><a href="http://www.kaoyan.com/zixun/" title="院校资讯">院校资讯</a></li>
+        <li><a href="http://www.kaoyan.com/daoshi/" title="导师介绍">导师介绍</a></li>
+        <li><a href="http://www.kaoyan.com/zhaosheng/" title="招生信息">招生信息</a></li>
+        <li><a href="http://www.kaoyan.com/fushi/" title="考研复试">考研复试</a></li>
+        <li><a href="http://tiaoji.kaoyan.com/" title="考研调剂">考研调剂</a></li>
+        <li><a href="http://www.kaoyan.com/wenda/" title="考研问答">考研问答</a></li>
+        <li><a href="http://www.kaoyan.com/jingyan/" title="考研经验">考研经验</a></li>
+        <li><a href="http://www.kaoyan.com/ziliao/" title="考研资料">考研资料</a></li>
+</ul>
+<div class="colleges" id="J_yz_colloges">
+      <div class="classNav">
+          <p class="sTab fl">
+              <a class="cur" href="http://www.kaoyan.com/beijing/">北京</a>
+              <a href="http://www.kaoyan.com/shanghai/">上海</a>
+              <a href="http://bbs.kaoyan.com/forum.php?gid=513" rel="nofollow">华北</a>
+              <a href="http://bbs.kaoyan.com/forum.php?gid=248" rel="nofollow">东北</a>
+              <a href="http://bbs.kaoyan.com/forum.php?gid=517" rel="nofollow">华东</a>
+              <a href="http://bbs.kaoyan.com/forum.php?gid=250" rel="nofollow">华中</a>
+              <a href="http://bbs.kaoyan.com/forum.php?gid=1972" rel="nofollow">华南</a>
+              <a href="http://bbs.kaoyan.com/forum.php?gid=516" rel="nofollow">西北</a>
+              <a href="http://bbs.kaoyan.com/forum.php?gid=252" rel="nofollow">西南</a>
+          </p>
+          <p class="sNavMore">
+              <a href="http://www.kaoyan.com/zhaosheng/555ec1c1d2d56.html" class="blue">985工程</a>
+              <a href="http://www.kaoyan.com/zhaosheng/555ecd3175112.html" class="blue">211工程</a>
+              <a href="http://www.kaoyan.com/zhaosheng/555eac0ab6b4a.html" class="blue">34所</a>                
+              <a href="http://school.kaoyan.com/" class="blue">更多院校</a>
+          </p>
+      </div>      
+      <!-------------------------------------------------- 北京 -------------------------------------------------->
+<div class="classNavCon tabShow"> 
+<div class="collegeList">
+<dl>
+<dt><a href="http://yz.kaoyan.com/tsinghua/">清华大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/tsinghua/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/tsinghua/zhenti/" title="考研真题">真题</a><a href="http://tsinghua.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/pku/">北京大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/pku/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/pku/zhenti/" title="考研真题">真题</a><a href="http://pku.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/ruc/">中国人民大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/ruc/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/ruc/zhenti/" title="考研真题">真题</a><a href="http://ruc.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/bjtu/">北京交通大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/bjtu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/bjtu/zhenti/" title="考研真题">真题</a><a href="http://bjtu.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/buaa/">北 航</a></dt>
+<dd><a href="http://yz.kaoyan.com/buaa/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/buaa/zhenti/" title="考研真题">真题</a><a href="http://buaa.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/cufe/">中央财经大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/cufe/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/cufe/zhenti/" title="考研真题">真题</a><a href="http://cufe.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/bupt/">北京邮电大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/bupt/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/bupt/zhenti/" title="考研真题">真题</a><a href="http://bupt.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/cuc/">中国传媒大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/cuc/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/cuc/zhenti/" title="考研真题">真题</a><a href="http://cuc.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+<div class="collegeList">
+<dl>
+<dt><a href="http://yz.kaoyan.com/bnu/">北京师范大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/bnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/bnu/zhenti/" title="考研真题">真题</a><a href="http://bnu.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/buct/">北京化工大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/buct/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/buct/zhenti/" title="考研真题">真题</a><a href="http://buct.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/bit/">北京理工大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/bit/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/bit/zhenti/" title="考研真题">真题</a><a href="http://bit.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/cupl/">中国政法大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/cupl/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/cupl/zhenti/" title="考研真题">真题</a><a href="http://cupl.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/cun/">中央民族大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/cun/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/cun/zhenti/" title="考研真题">真题</a><a href="http://cun.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/bjpu/">北京工业大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/bjpu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/bjpu/zhenti/" title="考研真题">真题</a><a href="http://bjpu.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/bfsu/">北 外</a></dt>
+<dd><a href="http://yz.kaoyan.com/bfsu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/bfsu/zhenti/" title="考研真题">真题</a><a href="http://bfsu.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/ustb/">北京科技大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/ustb/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/ustb/zhenti/" title="考研真题">真题</a><a href="http://ustb.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+<div class="collegeList bnone">
+<dl>
+<dt><a href="http://yz.kaoyan.com/uibe">对外经贸大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/uibe/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/uibe/zhenti/" title="考研真题">真题</a><a href="http://uibe.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/cau/">中国农业大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/cau/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/cau/zhenti/" title="考研真题">真题</a><a href="http://cau.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/ncepu/">华北电力大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/ncepu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/ncepu/zhenti/" title="考研真题">真题</a><a href="http://ncepu.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/bjpeu/">中国石油大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/bjpeu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/bjpeu/zhenti/" title="考研真题">真题</a><a href="http://bjpeu.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/cumtb/">中国矿业大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/cumtb/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/cumtb/zhenti/" title="考研真题">真题</a><a href="http://cumtb.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/cugb/">中国地质大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/cugb/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/cugb/zhenti/" title="考研真题">真题</a><a href="http://cugb.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/bjfu/">北京林业大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/bjfu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/bjfu/zhenti/" title="考研真题">真题</a><a href="http://bjfu.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/bsu/">北京体育大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/bsu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/bsu/zhenti/" title="考研真题">真题</a><a href="http://bsu.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+</div>
+<!-------------------------------------------------- 上海 -------------------------------------------------->
+<div class="classNavCon tabHide">
+<div class="collegeList">
+<dl>
+<dt><a href="http://yz.kaoyan.com/fudan/">复旦大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/fudan/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/fudan/zhenti/" title="考研真题">真题</a><a href="http://fudan.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/sjtu/">上海交大</a></dt>
+<dd><a href="http://yz.kaoyan.com/sjtu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/sjtu/zhenti/" title="考研真题">真题</a><a href="http://sjtu.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/tongji/">同济大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/tongji/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/tongji/zhenti/" title="考研真题">真题</a><a href="http://tongji.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/ecnu/">华东师大</a></dt>
+<dd><a href="http://yz.kaoyan.com/ecnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/ecnu/zhenti/" title="考研真题">真题</a><a href="http://ecnu.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/shufe/">上海财经</a></dt>
+<dd><a href="http://yz.kaoyan.com/shufe/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/shufe/zhenti/" title="考研真题">真题</a><a href="http://shufe.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/ecust/">华东理工</a></dt>
+<dd><a href="http://yz.kaoyan.com/ecust/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/ecust/zhenti/" title="考研真题">真题</a><a href="http://ecust.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/shisu/">上海外国语</a></dt>
+<dd><a href="http://yz.kaoyan.com/shisu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/shisu/zhenti/" title="考研真题">真题</a><a href="http://shisu.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/shu/">上海大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/shu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/shu/zhenti/" title="考研真题">真题</a><a href="http://shu.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+<div class="collegeList">
+<dl>
+<dt><a href="http://yz.kaoyan.com/dhu/">东华大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/dhu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/dhu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f272" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/smmu/">第二军医</a></dt>
+<dd><a href="http://yz.kaoyan.com/smmu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/smmu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f551" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/ecupl/">华东政法</a></dt>
+<dd><a href="http://yz.kaoyan.com/ecupl/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/ecupl/zhenti/" title="考研真题">真题</a><a href="http://ecupl.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/usst/">上海理工</a></dt>
+<dd><a href="http://yz.kaoyan.com/usst/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/usst/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f291" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/shmtu/">上海海事</a></dt>
+<dd><a href="http://yz.kaoyan.com/shmtu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/shmtu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f600" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/shnu/">上海师大</a></dt>
+<dd><a href="http://yz.kaoyan.com/shnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/shnu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f428" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/sus/">上海体院</a></dt>
+<dd><a href="http://yz.kaoyan.com/sus/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/sus/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f552" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/shutcm/">上海中医药</a></dt>
+<dd><a href="http://yz.kaoyan.com/shutcm/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/shutcm/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f553" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+<div class="collegeList bnone">
+<dl>
+<dt><a href="http://yz.kaoyan.com/sta">上海戏剧学院</a></dt>
+<dd><a href="http://yz.kaoyan.com/sta/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/sta/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/sta/zixun/" title="院校资讯">资讯</a></a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/shcmusic/">上海音乐学院</a></dt>
+<dd><a href="http://yz.kaoyan.com/shcmusic/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/shcmusic/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/shcmusic/zixun/" title="院校资讯">资讯</a></a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/shiep/">上海电力</a></dt>
+<dd><a href="http://yz.kaoyan.com/shiep/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/shiep/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/shiep/zixun/" title="院校资讯">资讯</a></a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/shift/">上海对外贸易</a></dt>
+<dd><a href="http://yz.kaoyan.com/shift/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/shift/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/shift/zixun/" title="院校资讯">资讯</a></a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/sues/">上海工程</a></dt>
+<dd><a href="http://yz.kaoyan.com/sues/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/sues/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/sues/zixun/" title="院校资讯">资讯</a></a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/shfu/">上海海洋</a></dt>
+<dd><a href="http://yz.kaoyan.com/shfu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/shfu/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/shfu/zixun/" title="院校资讯">资讯</a></a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/sass/">上海社科院</a></dt>
+<dd><a href="http://yz.kaoyan.com/sass/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/sass/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/sass/zixun/" title="院校资讯">资讯</a></a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/sibs/">上海生科院</a></dt>
+<dd><a href="http://yz.kaoyan.com/sibs/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/sibs/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/sibs/zixun/" title="院校资讯">资讯</a></a></dd>
+</dl>
+</div>
+</div>
+<!-------------------------------------------------- 华北 -------------------------------------------------->
+<div class="classNavCon tabHide">
+<div class="collegeList">
+<dl>
+<dt><a href="http://yz.kaoyan.com/nankai/">南开大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/nankai/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/nankai/zhenti/" title="考研真题">真题</a><a href="http://nankai.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/tju/">天津大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/tju/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/tju/zhenti/" title="考研真题">真题</a><a href="http://tju.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/tijmu/">天津医科大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/tijmu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/tijmu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f339" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/ncepubd/">华电保定</a></dt>
+<dd><a href="http://yz.kaoyan.com/ncepubd/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/ncepubd/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f408" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/hebut/">河北工大</a></dt>
+<dd><a href="http://yz.kaoyan.com/hebut/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hebut/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f320" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/tyut/">太原理工</a></dt>
+<dd><a href="http://yz.kaoyan.com/tyut/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/tyut/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f278" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/imu/">内蒙古大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/imu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/imu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f546" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/tjufe/">天津财经</a></dt>
+<dd><a href="http://yz.kaoyan.com/tjufe/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/tjufe/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f580" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+<div class="collegeList">
+<dl>
+<dt><a href="http://yz.kaoyan.com/tjnu/">天津师大</a></dt>
+<dd><a href="http://yz.kaoyan.com/tjnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/tjnu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f601" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/tuli/">天津科大</a></dt>
+<dd><a href="http://yz.kaoyan.com/tuli/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/tuli/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f602" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/tjpu/">天津工大</a></dt>
+<dd><a href="http://yz.kaoyan.com/tjpu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/tjpu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f603" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/tjfsu/">天津外国语</a></dt>
+<dd><a href="http://yz.kaoyan.com/tjfsu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/tjfsu/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/tjfsu/zixun/" title="院校资讯">资讯</a></a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/hbu/">河北大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/hbu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hbu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f212" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/ysu/">燕山大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/ysu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/ysu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f305" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/hebtu/">河北师大</a></dt>
+<dd><a href="http://yz.kaoyan.com/hebtu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hebtu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f404" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/hebmu/">河北医科</a></dt>
+<dd><a href="http://yz.kaoyan.com/hebmu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hebmu/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/hebmu/zixun/" title="院校资讯">资讯</a></a></dd>
+</dl>
+</div>
+<div class="collegeList bnone">
+<dl>
+<dt><a href="http://yz.kaoyan.com/sjzri/">石铁道大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/sjzri/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/sjzri/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/sjzri/zixun/" title="院校资讯">资讯</a></a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/heuet/">河北经贸</a></dt>
+<dd><a href="http://yz.kaoyan.com/heuet/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/heuet/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/heuet/zixun/" title="院校资讯">资讯</a></a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/sxu/">山西大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/sxu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/sxu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f277" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/nuc/">中北大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/nuc/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/nuc/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f433" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/sxnu">山西师大</a></dt>
+<dd><a href="http://yz.kaoyan.com/sxnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/sxnu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f606" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/sxufe/">山西财经</a></dt>
+<dd><a href="http://yz.kaoyan.com/sxufe/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/sxufe/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f607" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/imnu/">内蒙古师大</a></dt>
+<dd><a href="http://yz.kaoyan.com/imnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/imnu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f604" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/imut/">内蒙古工大</a></dt>
+<dd><a href="http://yz.kaoyan.com/imut/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/imut/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f605" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+</div>
+<!-------------------------------------------------- 东北 -------------------------------------------------->
+<div class="classNavCon tabHide">
+<div class="collegeList">
+<dl>
+<dt><a href="http://yz.kaoyan.com/neu/">东北大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/neu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/neu/zhenti/" title="考研真题">真题</a><a href="http://neu.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/dlut/">大连理工</a></dt>
+<dd><a href="http://yz.kaoyan.com/dlut/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/dlut/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f116" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/lnu/">辽宁大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/lnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/lnu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f269" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/dlmu/">大连海事</a></dt>
+<dd><a href="http://yz.kaoyan.com/dlmu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/dlmu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f287" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/jlu/">吉林大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/jlu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/jlu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f73" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/nenu/">东北师大</a></dt>
+<dd><a href="http://yz.kaoyan.com/nenu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/nenu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f157" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/ybu/">延边大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/ybu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/ybu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f548" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/hit/">哈 工 大</a></dt>
+<dd><a href="http://yz.kaoyan.com/hit/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hit/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f90" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+<div class="collegeList">
+<dl>
+<dt><a href="http://yz.kaoyan.com/hrbeu/">哈 工 程</a></dt>
+<dd><a href="http://yz.kaoyan.com/hrbeu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hrbeu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f150" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/neau/">东北农大</a></dt>
+<dd><a href="http://yz.kaoyan.com/neau/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/neau/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f288" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/nefu/">东北林大</a></dt>
+<dd><a href="http://yz.kaoyan.com/nefu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/nefu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f549" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/dufe/">东北财经</a></dt>
+<dd><a href="http://yz.kaoyan.com/dufe/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/dufe/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f123" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/lnnu/">辽宁师大</a></dt>
+<dd><a href="http://yz.kaoyan.com/lnnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/lnnu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f372" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/sut/">沈阳工业</a></dt>
+<dd><a href="http://yz.kaoyan.com/sut/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/sut/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f286" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/lntu/">辽宁工程</a></dt>
+<dd><a href="http://yz.kaoyan.com/lntu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/lntu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f385" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/synu/">沈阳师范</a></dt>
+<dd><a href="http://yz.kaoyan.com/synu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/synu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f612" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+<div class="collegeList bnone">
+<dl>
+<dt><a href="http://yz.kaoyan.com/syphu">沈阳药科</a></dt>
+<dd><a href="http://yz.kaoyan.com/syphu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/syphu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f468" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/cmu/">中国医科</a></dt>
+<dd><a href="http://yz.kaoyan.com/cmu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/cmu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f547" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/djtu/">大连交大</a></dt>
+<dd><a href="http://yz.kaoyan.com/djtu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/djtu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f1813" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/cust/">长春理工</a></dt>
+<dd><a href="http://yz.kaoyan.com/cust/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/cust/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f611" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/hlju/">黑龙江大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/hlju/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hlju/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f550" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/hrbnu/">哈尔滨师范</a></dt>
+<dd><a href="http://yz.kaoyan.com/hrbnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hrbnu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f608" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/hrbust/">哈尔滨理工</a></dt>
+<dd><a href="http://yz.kaoyan.com/hrbust/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hrbust/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f609" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/dqpi/">东北石油</a></dt>
+<dd><a href="http://yz.kaoyan.com/dqpi/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/dqpi/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f610" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+</div>
+<!-------------------------------------------------- 华东 -------------------------------------------------->
+<div class="classNavCon tabHide">
+<div class="collegeList">
+<dl>
+<dt><a href="http://yz.kaoyan.com/sdu/">山东大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/sdu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/sdu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f65" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/ouc/">中国海洋</a></dt>
+<dd><a href="http://yz.kaoyan.com/ouc/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/ouc/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f107" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/hdpu/">中国石油</a></dt>
+<dd><a href="http://yz.kaoyan.com/hdpu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hdpu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f239" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/nju/">南京大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/nju/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/nju/zhenti/" title="考研真题">真题</a><a href="http://nju.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/seu/">东南大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/seu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/seu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f70" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/nuaa/">南 航</a></dt>
+<dd><a href="http://yz.kaoyan.com/nuaa/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/nuaa/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f241" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/jiangnan/">江南大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/jiangnan/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/jiangnan/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f262" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/njau">南京农业</a></dt>
+<dd><a href="http://yz.kaoyan.com/njau/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/njau/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f342" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+<div class="collegeList">
+<dl>
+<dt><a href="http://yz.kaoyan.com/suda/">苏州大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/suda/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/suda/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f118" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/njnu/">南京师范</a></dt>
+<dd><a href="http://yz.kaoyan.com/njnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/njnu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f207" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/cpu/">中国药科</a></dt>
+<dd><a href="http://yz.kaoyan.com/cpu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/cpu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f469" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/njust/">南京理工</a></dt>
+<dd><a href="http://yz.kaoyan.com/njust/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/njust/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f280" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/hhu/">河海大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/hhu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hhu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f271" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/cumt/">中国矿业</a></dt>
+<dd><a href="http://yz.kaoyan.com/cumt/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/cumt/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f370" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/zju/">浙江大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/zju/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/zju/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f67" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/xmu/">厦门大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/xmu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/xmu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f62" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+<div class="collegeList bnone">
+<dl>
+<dt><a href="http://yz.kaoyan.com/fzu/">福州大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/fzu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/fzu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f110" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/ustc/">中 科 大</a></dt>
+<dd><a href="http://yz.kaoyan.com/ustc/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/ustc/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f100" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/hfut/">合肥工业</a></dt>
+<dd><a href="http://yz.kaoyan.com/hfut/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hfut/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f147" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/ahu/">安徽大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/ahu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/ahu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f334" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/sdnu/">山东师范</a></dt>
+<dd><a href="http://yz.kaoyan.com/sdnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/sdnu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f373" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/ujs/">江苏大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/ujs/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/ujs/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f154" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/zjut/">浙江工业</a></dt>
+<dd><a href="http://yz.kaoyan.com/zjut/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/zjut/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f299" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/ncu/">南昌大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/ncu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/ncu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f111" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+</div>
+<!-------------------------------------------------- 华中 -------------------------------------------------->
+<div class="classNavCon tabHide">
+<div class="collegeList">
+<dl>
+<dt><a href="http://yz.kaoyan.com/zzu/">郑州大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/zzu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/zzu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f148p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/henu/">河南大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/henu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/henu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f209p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/henannu/">河南师范大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/henannu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/henannu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f317p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/hpu/">河南理工大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/hpu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hpu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f627p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/scuec/">中南民族大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/scuec/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/scuec/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f621p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/whu/">武汉大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/whu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/whu/zhenti/" title="考研真题">真题</a><a href="http://whu.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/hust/">华中科技大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/hust/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hust/zhenti/" title="考研真题">真题</a><a href="http://hust.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/ccnu/">华中师范大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/ccnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/ccnu/zhenti/" title="考研真题">真题</a><a href="http://ccnu.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+<div class="collegeList">
+<dl>
+<dt><a href="http://yz.kaoyan.com/whut/">武汉理工大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/whut/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/whut/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f115p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/znufe/">中南财经政法大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/znufe/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/znufe/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f203p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/hubu/">湖北大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/hubu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hubu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f293p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/cug/">中国地质大学(武汉)</a></dt>
+<dd><a href="http://yz.kaoyan.com/cug/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/cug/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f556p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/hzau/">华中农业大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/hzau/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hzau/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f406p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/wust/">武汉科技大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/wust/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/wust/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f622p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/yangtzeu/">长江大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/yangtzeu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/yangtzeu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f623p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/hnu/">湖南大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/hnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hnu/zhenti/" title="考研真题">真题</a><a href="http://hnu.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+<div class="collegeList bnone">
+<dl>
+<dt><a href="http://yz.kaoyan.com/csu/">中南大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/csu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/csu/zhenti/" title="考研真题">真题</a><a href="http://csu.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/hunnu/">湖南师范大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/hunnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hunnu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f158p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/xtu/">湘潭大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/xtu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/xtu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f128p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/nudt/">国防科技大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/nudt/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/nudt/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f104p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/csust/">长沙理工大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/csust/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/csust/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f625p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/nhu/">南华大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/nhu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/nhu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f626p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/hut/">湖南工业大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/hut/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hut/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f295p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/jsu/">吉首大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/jsu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/jsu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f492p1" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+</div>
+<!-------------------------------------------------- 华南 -------------------------------------------------->
+<div class="classNavCon tabHide">
+<div class="collegeList">
+<dl>
+<dt><a href="http://yz.kaoyan.com/gzhu/">广州大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/gzhu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/gzhu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f624p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/zsu/">中山大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/zsu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/zsu/zhenti/" title="考研真题">真题</a><a href="http://zsu.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/scut/">华南理工大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/scut/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/scut/zhenti/" title="考研真题">真题</a><a href="http://scut.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/scnu/">华南师范大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/scnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/scnu/zhenti/" title="考研真题">真题</a><a href="http://scnu.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/jnu/">暨南大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/jnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/jnu/zhenti/" title="考研真题">真题</a><a href="http://jnu.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/szu/">深圳大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/szu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/szu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f313p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/gdut/">广东工业大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/gdut/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/gdut/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f405p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/gdufs/">广东外语外贸大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/gdufs/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/gdufs/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f398p1" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+<div class="collegeList">
+<dl>
+<dt><a href="http://yz.kaoyan.com/stu/">汕头大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/stu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/stu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f473p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/scau/">华南农业大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/scau/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/scau/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f557p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/fimmu/">南方医科大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/fimmu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/fimmu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f558p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/gzhtcm/">广州中医药大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/gzhtcm/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/gzhtcm/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f559p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/gxu/">广西大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/gxu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/gxu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f294p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/guet/">桂林电子科技大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/guet/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/guet/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f336p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/gxnu/">广西师范大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/gxnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/gxnu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f628p1" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/hainu/">海南大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/hainu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hainu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f472p1" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+<div class="collegeList bnone">
+<dl>
+<dt><a href="http://yz.kaoyan.com/gdou/">广东海洋大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/gdou/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/gdou/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/gdou/zixun/" title="考研资讯">资讯</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/gxut/">广西科技大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/gxut/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/gxut/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/gdou/zixun/" title="考研资讯">资讯</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/gxmu/">广西医科大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/gxmu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/gxmu/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/gdou/zixun/" title="考研资讯">资讯</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/gxun/">广西民族大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/gxun/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/gxun/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/gdou/zixun/" title="考研资讯">资讯</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/gxufe/">广西财经学院</a></dt>
+<dd><a href="http://yz.kaoyan.com/gxufe/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/gxufe/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/gdou/zixun/" title="考研资讯">资讯</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/glite/">桂林理工大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/glite/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/glite/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/gdou/zixun/" title="考研资讯">资讯</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/hainnu/">海南师范大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/hainnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hainnu/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/gdou/zixun/" title="考研资讯">资讯</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/hainmc/">海南医学院</a></dt>
+<dd><a href="http://yz.kaoyan.com/hainmc/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/hainmc/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/gdou/zixun/" title="考研资讯">资讯</a></dd>
+</dl>
+</div>
+</div>
+<!-------------------------------------------------- 西北 -------------------------------------------------->
+<div class="classNavCon tabHide">
+<div class="collegeList">
+<dl>
+<dt><a href="http://yz.kaoyan.com/xjtu/">西安交大</a></dt>
+<dd><a href="http://yz.kaoyan.com/xjtu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/xjtu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f83" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/xidian/">西安电子科大</a></dt>
+<dd><a href="http://yz.kaoyan.com/xidian/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/xidian/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f149" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/chd/">长安大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/chd/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/chd/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f256" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/snnu/">陕西师大</a></dt>
+<dd><a href="http://yz.kaoyan.com/snnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/snnu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f279" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/nwu/">西北大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/nwu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/nwu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f210" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/nwpu/">西北工业</a></dt>
+<dd><a href="http://yz.kaoyan.com/nwpu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/nwpu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f124" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/nwsuaf/">西北农林</a></dt>
+<dd><a href="http://yz.kaoyan.com/nwsuaf/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/nwsuaf/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f367" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/fmmu/">第四军医</a></dt>
+<dd><a href="http://yz.kaoyan.com/fmmu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/fmmu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f560" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+<div class="collegeList">
+<dl>
+<dt><a href="http://yz.kaoyan.com/lzu/">兰州大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/lzu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/lzu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f68" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/qhu/">青海大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/qhu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/qhu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f562" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/nxu/">宁夏大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/nxu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/nxu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f563" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/xju/">新疆大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/xju/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/xju/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f285" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/shzu/">石河子大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/shzu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/shzu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f561" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/xauat/">西安建科</a></dt>
+<dd><a href="http://yz.kaoyan.com/xauat/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/xauat/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f340" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/xaut/">西安理工</a></dt>
+<dd><a href="http://yz.kaoyan.com/xaut/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/xaut/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f629" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/xust/">西安科技</a></dt>
+<dd><a href="http://yz.kaoyan.com/xust/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/xust/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f630" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+<div class="collegeList bnone">
+<dl>
+<dt><a href="http://yz.kaoyan.com/sust/">陕西科技</a></dt>
+<dd><a href="http://yz.kaoyan.com/sust/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/sust/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f631" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/xisu/">西安外国语</a></dt>
+<dd><a href="http://yz.kaoyan.com/xisu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/xisu/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/xisu/zixun/" title="院校资讯">资讯</a></a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/nwupl/">西北政法</a></dt>
+<dd><a href="http://yz.kaoyan.com/nwupl/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/nwupl/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f1815" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/xaufe/">西安财经</a></dt>
+<dd><a href="http://yz.kaoyan.com/xaufe/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/xaufe/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/xaufe/zixun/" title="院校资讯">资讯</a></a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/lzjtu/">兰州交通</a></dt>
+<dd><a href="http://yz.kaoyan.com/lzjtu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/lzjtu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f290" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/nwnu/">西北师大</a></dt>
+<dd><a href="http://yz.kaoyan.com/nwnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/nwnu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f400" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/lut/">兰州理工</a></dt>
+<dd><a href="http://yz.kaoyan.com/lut/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/lut/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f411" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/xbmu/">西北民族</a></dt>
+<dd><a href="http://yz.kaoyan.com/xbmu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/xbmu/zhenti/" title="考研真题">真题</a><a href="http://yz.kaoyan.com/xbmu/zixun/" title="院校资讯">资讯</a></a></dd>
+</dl>
+</div>
+</div>
+<!-------------------------------------------------- 西南 -------------------------------------------------->
+<div class="classNavCon tabHide">
+<div class="collegeList">
+<dl>
+<dt><a href="http://yz.kaoyan.com/scu/">四川大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/scu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/scu/zhenti/" title="考研真题">真题</a><a href="http://scu.bbs.kaoyan.com/" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/swufe/">西南财经</a></dt>
+<dd><a href="http://yz.kaoyan.com/swufe/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/swufe/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f213" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/uestc/">电子科大</a></dt>
+<dd><a href="http://yz.kaoyan.com/uestc/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/uestc/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f84" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/swjtu/">西南交大</a></dt>
+<dd><a href="http://yz.kaoyan.com/swjtu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/swjtu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f102" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/sicau/">四川农业</a></dt>
+<dd><a href="http://yz.kaoyan.com/sicau/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/sicau/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f566" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/cqu/">重庆大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/cqu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/cqu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f75" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/swu/">西南大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/swu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/swu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f284" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/ynu/">云南大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/ynu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/ynu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f240" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+<div class="collegeList">
+<dl>
+<dt><a href="http://yz.kaoyan.com/gzu/">贵州大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/gzu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/gzu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f312" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/utibet/">西藏大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/utibet/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/utibet/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f564" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/cdut/">成都理工</a></dt>
+<dd><a href="http://yz.kaoyan.com/cdut/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/cdut/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f380" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/swun/">西南民族大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/swun/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/swun/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f478" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/swpu/">西南石油大学</a></dt>
+<dd><a href="http://yz.kaoyan.com/swpu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/swpu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f632" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/sicnu/">四川师范</a></dt>
+<dd><a href="http://yz.kaoyan.com/sicnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/sicnu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f633" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/cdutcm/">成都中医药</a></dt>
+<dd><a href="http://yz.kaoyan.com/cdutcm/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/cdutcm/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f565" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/cqupt">重庆邮电</a></dt>
+<dd><a href="http://yz.kaoyan.com/cqupt/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/cqupt/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f276" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+<div class="collegeList bnone">
+<dl>
+<dt><a href="http://yz.kaoyan.com/swupl/">西南政法</a></dt>
+<dd><a href="http://yz.kaoyan.com/swupl/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/swupl/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f101" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/ctbu/">重庆工商</a></dt>
+<dd><a href="http://yz.kaoyan.com/ctbu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/ctbu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f296" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/cqnu/">重庆师范</a></dt>
+<dd><a href="http://yz.kaoyan.com/cqnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/cqnu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f403" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/cqjtu/">重庆交通</a></dt>
+<dd><a href="http://yz.kaoyan.com/cqjtu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/cqjtu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f412" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/kmust/">昆明理工</a></dt>
+<dd><a href="http://yz.kaoyan.com/kmust/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/kmust/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f439" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/ynnu/">云南师范</a></dt>
+<dd><a href="http://yz.kaoyan.com/ynnu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/ynnu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f634" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/ynni/">云南民族</a></dt>
+<dd><a href="http://yz.kaoyan.com/ynni/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/ynni/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f484" rel="nofollow">论坛</a></dd>
+</dl>
+<dl>
+<dt><a href="http://yz.kaoyan.com/gznu/">贵州师范</a></dt>
+<dd><a href="http://yz.kaoyan.com/gznu/zhaosheng/" title="招生信息">招生</a><a href="http://yz.kaoyan.com/gznu/zhenti/" title="考研真题">真题</a><a href="http://bbs.kaoyan.com/f635" rel="nofollow">论坛</a></dd>
+</dl>
+</div>
+</div>
+<!-------------------------------------------------- End -------------------------------------------------->      
+  </div>
+    
+<div class="w1000">
+    <div class="col300">
+      <div id="focus"><!--轮播图开始-->
+        <div id="focusImg">
+           <!--part_27258--><a href="http://www.kaoyan.com/z2017/chengji/" title="2017考研初试成绩查询" target="_blank" rel="nofollow"><img src="http://cdn1.kybimg.com/img/2017/02/13/110158_58a121a630cce.png" alt="2017考研初试成绩查询" /></a>
+<a href="http://www.kaoyan.com/z2016/fushibwbd/" title="2017年考研复试百问百答" target="_blank" rel="nofollow"><img src="http://cdn1.kybimg.com/img/2017/01/04/111907_586c69abe03c9.png" alt="2017年考研复试百问百答" /></a>
+<a href="http://xue.kaoyan.com/t/appraises?yz" title="2017年考研估分看排名" target="_blank" rel="nofollow"><img src="http://cdn1.kybimg.com/img/2016/12/25/160041_585f7ca911b23.jpg" alt="2017年考研估分看排名" /></a>
+<a href="http://www.kaoyan.com/z2015/lngjx/" title="2012-2016年考研国家线走势" target="_blank" rel="nofollow"><img src="http://cdn1.kybimg.com/img/2016/12/25/165544_585f8990a26b2.png" alt="2012-2016年考研国家线走势" /></a>
+<a href="http://www.kaoyan.com/z2016/zexiao/#&pageHome" title="2018年考研择校择专业" target="_blank" rel="nofollow"><img src="http://cdn1.kybimg.com/img/2016/12/25/161731_585f809b01872.png" alt="2018年考研择校择专业" /></a>
+
+        </div>
+        <div id="focusBg"></div>
+        <div id="focusInfo"></div>
+      </div><!--轮播图结束-->
+      <div class="leftArea"><!--学校简介开始-->
+                <p class="allTitle">考研百科</p>
+                <ul class="slist mb30">
+                    <!--part_27259--><li><a href="http://www.kaoyan.com/baokao/zhinan/552793d9e72a6.html" title="报考条件" target="_blank">报考条件</a></li>
+<li><a href="http://www.kaoyan.com/baokao/jingyan/560e02e6c42c0.html" title="考试报名" target="_blank">考试报名</a></li>
+<li><a href="http://www.kaoyan.com/baokao/jingyan/562488f7ce5f4.html" title="考研常识" target="_blank">考研常识</a></li>
+<li><a href="http://www.kaoyan.com/jianzhang/5527a135b6d0a.html" title="资格审查" target="_blank">资格审查</a></li>
+<li><a href="http://www.kaoyan.com/xinwen/zhengce/5673e055de0ca.html" title="违规处理" target="_blank">违规处理</a></li>
+<li><a href="http://yz.kaoyan.com/sdu/jingyan/27/537928/" title="山东大学考研备考生存手册之饮食篇" target="_blank">山东大学考研备考生存手册之饮食篇</a></li>
+                    
+                </ul>
+                <p class="allTitle">实用信息</p>
+                <ul class="slist">
+                    <!--part_27265--><li><a href="http://www.kaoyan.com/kaoyan/25/522045/" title="招生单位" target="_blank">招生单位</a></li>
+<li><a href="http://www.kaoyan.com/zhaosheng/55029ac71c728.html" title="联系方式" target="_blank">联系方式</a></li>
+<li><a href="http://www.kaoyan.com/kaoyan/18/550718/" title="学科排名" target="_blank">学科排名</a></li>
+<li><a href="http://www.kaoyan.com/dagang/" title="考试大纲" target="_blank">考试大纲</a></li>
+<li><a href="http://www.kaoyan.com/kaoyan/10/353913/" title="学硕初试科目" target="_blank">学硕初试科目</a></li>
+<li><a href="http://www.kaoyan.com/baokao/zhinan/56a05cc401bf5.html" title="专硕初试科目" target="_blank">专硕初试科目</a></li>
+<li><a href="http://tiaoji.kaoyan.com/" title="考研调剂" target="_blank">考研调剂</a></li>
+<li><a href="http://www.kaoyan.com/kaoyan/18/519274/" title="考题及大纲编制单位" target="_blank">考题及大纲编制单位</a></li>
+ 
+                </ul>
+      </div><!--学校简介结束-->
+    </div>
+    <div class="col420">
+      <div class="mb5 mtf5">
+              <!--part_27260--><h2 class="headline"><a href="http://www.kaoyan.com/z2017/chengji/" title="研究生初试成绩：查询时间入口" target="_blank" rel="nofollow">研究生初试成绩：查询时间入口</a></h2>
+     
+              <p class="headlineInfo"><!--part_27260--><a href="http://www.kaoyan.com/fushi/jingyan/589bfc20acd4e.html" title="调剂：获取调剂信息的方式" target="_blank">调剂：获取调剂信息的方式</a>
+<a href="http://www.kaoyan.com/xinwen/jiuye/587f08aab9243.html" title="汇总：毕业生就业质量报告" target="_blank">汇总：毕业生就业质量报告</a>
+<a href="http://www.kaoyan.com/fushi/jingyan/58a5562971503.html" title="解读：决定你命运的分数线" target="_blank">解读：决定你命运的分数线</a>
+<a href="http://www.kaoyan.com/fushi/jingyan/58a15ccccd4c6.html" title="复试：说一说复试那些小事" target="_blank">复试：说一说复试那些小事</a>
+ </p>            
+      </div>
+      <div class="mb10">        
+         <!--part_27260--><h2 class="headline"><a href="http://www.kaoyan.com/tiaoji/xinwen/58996dfd16108.html" title="调剂信息已发布：最新院校汇总" target="_blank" rel="nofollow">调剂信息已发布：最新院校汇总</a></h2>
+
+          <p class="headlineInfo"><!--part_27260--><a href="http://www.kaoyan.com/yingyu/jingyan/58a54f2a727b4.html" title="英语：四类考试形式大汇总" target="_blank">英语：四类考试形式大汇总</a>
+<a href="http://www.kaoyan.com/fushi/jingyan/58a3f143b1b6d.html" title="指导：查到分数后该做什么" target="_blank">指导：查到分数后该做什么</a>
+<a href="http://www.kaoyan.com/fushi/jingyan/58a54c9dc2337.html" title="必备：复试所需的材料清单" target="_blank">必备：复试所需的材料清单</a>
+<a href="http://www.kaoyan.com/beikao/jingyan/58a155d64f038.html" title="经验：各科备考的失误总结" target="_blank">经验：各科备考的失误总结</a>
+ </p> 
+      </div>
+      <div class="mb20"><script type="text/javascript">BAIDU_CLB_fillSlot("2470820");</script></div>
+      <ul class="indexTab">
+        <li  class="cur">热点专题</li>
+        <li>招生简章</li>
+        <li>专业目录</li>
+        <li>院校热帖</li>                     
+      </ul>
+      <div class="indexTabCon" id="yzIndexTab">
+        <ul  class="list tabShow">
+                   <!--part_28482--><li ><a href="http://www.kaoyan.com/z2016/zkzdy/" title="2017准考证打印小贴士" target="_blank">2017准考证打印小贴士</a></li>
+<li ><a href="http://www.kaoyan.com/z2016/zzfxt/" title="政治分析题名师押题统计" target="_blank">政治分析题名师押题统计</a></li>
+<li ><a href="http://www.kaoyan.com/z2016/zzxzt/" title="政治选择题名师押题统计" target="_blank">政治选择题名师押题统计</a></li>
+<li ><a href="http://www.kaoyan.com/z2016/y2_2/" title="英语二小作文名师押题统计" target="_blank">英语二小作文名师押题统计</a></li>
+<li ><a href="http://www.kaoyan.com/z2016/y1_2/" title="英语一小作文名师押题统计" target="_blank">英语一小作文名师押题统计</a></li>
+<li ><a href="http://www.kaoyan.com/z2016/y2_1/" title="英语二大作文名师押题统计" target="_blank">英语二大作文名师押题统计</a></li>
+<li ><a href="http://www.kaoyan.com/z2016/y1_1/" title="英语一大作文名师押题统计" target="_blank">英语一大作文名师押题统计</a></li>
+<li ><a href="http://www.kaoyan.com/z2016/zwmb/" title="11类模板助你作文高分" target="_blank">11类模板助你作文高分</a></li>
+<li ><a href="http://www.kaoyan.com/z2016/zzdtjq/" title="2017年考研政治答题技巧（选择题+分析题）" target="_blank">2017年考研政治答题技巧（选择题+分析题）</a></li>
+<li ><a href="http://www.kaoyan.com/z2016/yydtjq/" title="2017年考研英语各题型答题技巧" target="_blank">2017年考研英语各题型答题技巧</a></li>
+          
+        </ul>
+        <ul class="list tabHide">
+          <!--part_27347--><li><a href="http://yz.kaoyan.com/xjart/jianzhang/5847c031ccb2f.html" title="2017年新疆艺术学院考研招生简章" target="_blank">2017年新疆艺术学院考研招生简章</a></li>
+<li><a href="http://yz.kaoyan.com/dufe/jianzhang/5847bca8672c3.html" title="2017年东北财经大学考研招生简章" target="_blank">2017年东北财经大学考研招生简章</a></li>
+<li><a href="http://yz.kaoyan.com/gdmc/jianzhang/5846774830028.html" title="2017年广东医科大学考研招生简章" target="_blank">2017年广东医科大学考研招生简章</a></li>
+<li><a href="http://yz.kaoyan.com/nhri/jianzhang/58414e0566aff.html" title="2017年南京水利科学研究院考研招生简章" target="_blank">2017年南京水利科学研究院考研招生简章</a></li>
+<li><a href="http://yz.kaoyan.com/cpu/jianzhang/58412d97813d5.html" title="2017年中国药科大学考研招生简章" target="_blank">2017年中国药科大学考研招生简章</a></li>
+<li><a href="http://yz.kaoyan.com/qhu/jianzhang/583fc2b5968c3.html" title="2017年青海大学考研招生简章" target="_blank">2017年青海大学考研招生简章</a></li>
+<li><a href="http://yz.kaoyan.com/cjc/jianzhang/583fbfeec07ff.html" title="2017年昌吉学院考研招生简章" target="_blank">2017年昌吉学院考研招生简章</a></li>
+<li><a href="http://yz.kaoyan.com/taru/jianzhang/583fbb8522c87.html" title="2017年塔里木大学考研招生简章" target="_blank">2017年塔里木大学考研招生简章</a></li>
+<li><a href="http://yz.kaoyan.com/xju/jianzhang/583fa0627f262.html" title="2017年新疆大学考研招生简章" target="_blank">2017年新疆大学考研招生简章</a></li>
+<li><a href="http://yz.kaoyan.com/swufe/jianzhang/583f9bc7cf079.html" title="2017年西南财经大学考研招生简章" target="_blank">2017年西南财经大学考研招生简章</a></li>
+
+        </ul>
+        <ul  class="list tabHide">
+          <!--part_27348--><li><a href="http://yz.kaoyan.com/tjac/zhuanye/58773a5f24e6c.html" title="2017年天津农学院考研复试笔试科目" target="_blank">2017年天津农学院考研复试笔试科目</a></li>
+<li><a href="http://yz.kaoyan.com/dlfu/zhuanye/586de4ff919aa.html" title="2017年大连海洋大学考研复试专业目录" target="_blank">2017年大连海洋大学考研复试专业目录</a></li>
+<li><a href="http://yz.kaoyan.com/qdu/zhuanye/584900a72b8b9.html" title="2017年青岛大学考研专业目录及考试科目" target="_blank">2017年青岛大学考研专业目录及考试科目</a></li>
+<li><a href="http://yz.kaoyan.com/hlaflru/zhuanye/5848f968c2746.html" title="2017年黑龙江八一农垦大学考研专业目录及考试科目" target="_blank">2017年黑龙江八一农垦大学考研专业目录及考试科目</a></li>
+<li><a href="http://yz.kaoyan.com/xjart/zhuanye/5847c99e192f7.html" title="2017年新疆艺术学院考研专业目录及考试科目" target="_blank">2017年新疆艺术学院考研专业目录及考试科目</a></li>
+<li><a href="http://yz.kaoyan.com/lntu/zhuanye/5847bb7696ed6.html" title="2017年辽宁工程技术大学考研专业目录及考试科目" target="_blank">2017年辽宁工程技术大学考研专业目录及考试科目</a></li>
+<li><a href="http://yz.kaoyan.com/lnpu/zhuanye/584691624816b.html" title="2017年辽宁石油化工大学082001油气井工程考研专业目录及考试科目" target="_blank">2017年辽宁石油化工大学082001油气井工程考研专业目录及考试科目</a></li>
+<li><a href="http://yz.kaoyan.com/lnpu/zhuanye/5846912f36d7c.html" title="2017年辽宁石油化工大学080705制冷及低温工程考研专业目录及考试科目" target="_blank">2017年辽宁石油化工大学080705制冷及低温工程考研专业目录及考试科目</a></li>
+<li><a href="http://yz.kaoyan.com/lnpu/zhuanye/58469100e0689.html" title="2017年辽宁石油化工大学080702热能工程考研专业目录及考试科目" target="_blank">2017年辽宁石油化工大学080702热能工程考研专业目录及考试科目</a></li>
+<li><a href="http://yz.kaoyan.com/lnpu/zhuanye/584690c75a9ee.html" title="2017年辽宁石油化工大学080701工程热物理考研专业目录及考试科目" target="_blank">2017年辽宁石油化工大学080701工程热物理考研专业目录及考试科目</a></li>
+
+        </ul>
+        <ul  class="list tabHide">
+                  <!--part_28485--><li><a href="http://bbs.kaoyan.com/t4944024p1" title="考上了南开通信专业，把专业课资料给有需要的学弟学妹" rel="nofollow" target="_blank">考上了南开通信专业，把专业课资料给有需要的学弟学妹</a></li>
+<li><a href="http://bbs.kaoyan.com/t5447627p1" title="【考研报名必备】所有接地气问题一网打尽（附word整理版）" rel="nofollow" target="_blank">【考研报名必备】所有接地气问题一网打尽（附word整理版）</a></li>
+<li><a href="http://bbs.kaoyan.com/t5279534p1" title="【中石油（北京）】2014年中石油（北京）硕士研究生录取情况" rel="nofollow" target="_blank">【中石油（北京）】2014年中石油（北京）硕士研究生录取情况</a></li>
+<li><a href="http://bbs.kaoyan.com/t3325158p46" title="我是北大研究生，现在可以给大家答疑" rel="nofollow" target="_blank">我是北大研究生，现在可以给大家答疑</a></li>
+<li><a href="http://bbs.kaoyan.com/t5216161p1" title="【华东师范大学】2014华东师范大学金专专业课&复试经验贴" rel="nofollow" target="_blank">【华东师范大学】2014华东师范大学金专专业课&复试经验贴</a></li>
+<li><a href="http://bbs.kaoyan.com/forum.php?mod=viewthread&tid=5189707&extra=page%3D1%26filter%3Ddigest%26digest" title="2014年东北大学翻译硕士MTI211、357、448真题【精确回忆版】" rel="nofollow" target="_blank">2014年东北大学翻译硕士MTI211、357、448真题【精确回忆版】</a></li>
+<li><a href="http://bbs.kaoyan.com/t5255526p1" title="【南开大学】不能在干货里制霸 朕寝食难安" rel="nofollow" target="_blank">【南开大学】不能在干货里制霸 朕寝食难安</a></li>
+<li><a href="http://bbs.kaoyan.com/t5116747p1" title="【天津大学】后考研时期的策略分析适用于管院大部分专业" rel="nofollow" target="_blank">【天津大学】后考研时期的策略分析适用于管院大部分专业</a></li>
+<li><a href="http://bbs.kaoyan.com/t5464251p1" title="考上贸大431金融专硕，十一整理点资料给大家" rel="nofollow" target="_blank">考上贸大431金融专硕，十一整理点资料给大家</a></li>
+<li><a href="http://bbs.kaoyan.com/t5251221p1" title="2014年上海交大840考研经验分享及专业课资料下载" rel="nofollow" target="_blank">2014年上海交大840考研经验分享及专业课资料下载</a></li>
+
+        </ul>
+      </div>      
+    </div>
+    <div class="oneRight">              
+          <div class="rightAd"><script type="text/javascript">BAIDU_CLB_fillSlot("850240");</script></div>
+<div class="rightAd"><script type="text/javascript">BAIDU_CLB_fillSlot("850243");</script></div>
+<div class="rightAd"><script type="text/javascript">BAIDU_CLB_fillSlot("850245");</script></div>
+<div class="rightAd"><script type="text/javascript">BAIDU_CLB_fillSlot("1100250");</script></div>
+<div class="rightAd"><script type="text/javascript">BAIDU_CLB_fillSlot("1100254");</script></div>
+          <div class="rightArea">
+              <p class="allTitle">考研热词</p>
+              <div class="srlist mb15"><a href="http://www.kaoyan.com/baokao/zhinan/56849ae901d01.html">研究生分类</a><a href="http://bang.kaoyan.com/special?id=11">学硕与专硕研究生</a><a href="http://www.kaoyan.com/baokao/zhinan/56a1e14622068.html">推免研究生</a><a href="http://www.kaoyan.com/kaoyan/27/340903/">学位制度</a><a href="http://www.kaoyan.com/baokao/zhinan/56a1f157399a0.html">硕师计划</a><a href="http://yz.kaoyan.com/sta/wenda/53605c8c6fffe.html">定向与非定向</a><a href="http://www.kaoyan.com/kaoyan/27/340899/">计划内与计划外招生</a></div>
+              <p class="allTitle">招生数据</p>
+              <div class="srlist mb10"><a href="http://www.kaoyan.com/kaoyan/23/551806/">历年全国报录数据</a><a href="http://www.kaoyan.com/baolubi/">招生单位报录数据</a><a href="http://www.kaoyan.com/kaoyan/18/542023/">历年全国复试线</a><a href="http://www.kaoyan.com/fenshuxian/56d7ac5291886.html">34所自划线校复试线</a></div>
+              <!--<p class="allTitle">热点关注</p>
+              <div class="srlist"><a href="http://www.kaoyan.com/baokao/zhinan/555c3d5a37fe4.html">2016考研：一刻钟了解考研必知事项</a><a href="http://www.kaoyan.com/baokao/zexiao/555c04e75e68d.html">50所名校王牌专业，你动心了吗？</a><a href="http://www.kaoyan.com/baokao/zexiao/555c04e75e68d.html">专科生考研报考须知及常见问题汇总</a><a href="http://www.kaoyan.com/dagang/">考研大纲</a><a href="http://www.kaoyan.com/jianzhang/">招生简章</a><a href="http://www.kaoyan.com/z2014/baoming/">报名专题</a></div>-->
+          </div>    
+    </div>
+</div>
+<div class="groupShow">   
+        <p class="subTitle">院校研招资讯联展</p>
+        <div class="groupList">
+          <div class="groupItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850272");</script>
+</div>
+<div class="groupItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850280");</script>
+</div>
+<div class="groupItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850294");</script>
+</div>
+<div class="groupItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850316");</script>
+</div>
+<div class="groupItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850318");</script>
+</div>
+<div class="groupItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850319");</script>
+</div>
+<div class="groupItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850321");</script>
+</div>
+<div class="groupItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850322");</script>
+</div>
+<div class="groupItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850325");</script>
+</div>
+<div class="groupItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850328");</script>
+</div>
+<div class="groupItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850335");</script>
+</div>
+<div class="groupItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850339");</script>
+</div>
+        </div>
+        <div class="picAdList">
+            <div class="picAdItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850349");</script>
+</div>
+<div class="picAdItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850355");</script>
+</div>
+<div class="picAdItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850356");</script>
+</div>
+<div class="picAdItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850358");</script>
+</div>
+<div class="picAdItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850523");</script>
+</div>
+<div class="picAdItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850524");</script>
+</div>
+<div class="picAdItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850527");</script>
+</div>
+<div class="picAdItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850528");</script>
+</div>
+<div class="picAdItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850534");</script>
+</div>
+<div class="picAdItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850537");</script>
+</div>
+<div class="picAdItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850547");</script>
+</div>
+<div class="picAdItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850551");</script>
+</div>
+<div class="picAdItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850561");</script>
+</div>
+<div class="picAdItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850567");</script>
+</div>
+<div class="picAdItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850570");</script>
+</div>
+<div class="picAdItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850575");</script>
+</div>
+<div class="picAdItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850578");</script>
+</div>
+<div class="picAdItem">
+	<script type="text/javascript">BAIDU_CLB_fillSlot("850581");</script>
+</div>
+      </div>
+</div>
+<div class="wNav">
+    <h3 class="wNavTitle">招生<span>·</span>资讯<span>·</span>报考<span>·</span>院校</h3>    
+</div>
+<div class="w1000">
+    <div class="col300">
+        <div class="leftArea">
+             <p class="subTitle">研招专业</p>
+            <ul class="slist kyBaike mb10">
+                    <li><a href="http://www.kaoyan.com/kaoyan/21/34099/">哲学</a></li>
+                    <li><a href="http://www.kaoyan.com/kaoyan/21/34098/">经济学</a></li>
+                    <li><a href="http://www.kaoyan.com/kaoyan/21/34097/">法学</a></li>
+                    <li><a href="http://www.kaoyan.com/kaoyan/21/34095/">教育学</a></li>
+                    <li><a href="http://www.kaoyan.com/kaoyan/21/34094/">文学</a></li>
+                    <li><a href="http://www.kaoyan.com/kaoyan/21/34093/">历史学</a></li>
+                    <li><a href="http://www.kaoyan.com/kaoyan/21/34092/">理学</a></li>
+                    <li><a href="http://www.kaoyan.com/kaoyan/21/34091/">工学</a></li>
+                    <li><a href="http://www.kaoyan.com/kaoyan/21/34090/">农学</a></li>
+                    <li><a href="http://www.kaoyan.com/kaoyan/21/34088/">医学</a></li>
+                    <li><a href="http://www.kaoyan.com/kaoyan/21/34086/">军事学</a></li>
+                    <li><a href="http://www.kaoyan.com/kaoyan/21/34084/">管理学</a></li> 
+                    <li><a href="http://www.kaoyan.com/kaoyan/10/549341/">艺术学</a></li> 
+                </ul>
+            <p class="allTitle">历年国家线</p>
+            <ul class="scoreLine">
+                    <li><a href="http://www.kaoyan.com/kaoyan/18/542023/">2016</a></li>
+                    <li><a href="http://www.kaoyan.com/fenshuxian/56e27df4ed0f2.html">2015</a></li>
+                    <li><a href="http://www.kaoyan.com/fenshuxian/54feca66891c4.html">2014</a></li>
+                    <li><a href="http://www.kaoyan.com/kaoyan/26/474415/">2013</a></li>
+                    <li><a href="http://www.kaoyan.com/kaoyan/30/385015/">2012</a></li>
+                    <li><a href="http://www.kaoyan.com/kaoyan/29/334786/">2011</a></li>
+                    <li><a href="http://www.kaoyan.com/kaoyan/22/32463/">2010</a></li>                   
+                </ul>
+            <p class="allTitle">考研关注</p>
+            <ul class="college34 ">
+                    <li><a href="http://yz.kaoyan.com/pku/">北京大学</a></li>
+                    <li><a href="http://yz.kaoyan.com/tsinghua/">清华大学</a></li>
+                    <li><a href="http://yz.kaoyan.com/sjtu/">上海交大</a></li>
+                    <li><a href="http://yz.kaoyan.com/dlut/">大连理工</a></li>
+                    <li><a href="http://yz.kaoyan.com/sdu/">山东大学</a></li>
+                    <li><a href="http://yz.kaoyan.com/fudan//">复旦大学</a></li>
+                    <li><a href="http://yz.kaoyan.com/ruc/">人民大学</a></li>
+                    <li><a href="http://yz.kaoyan.com/buaa/">北航</a></li>
+                    <li><a href="http://yz.kaoyan.com/tju/">天津大学</a></li>
+                    <li><a href="http://yz.kaoyan.com/nankai/">南开大学</a></li>
+                    <li><a href="http://yz.kaoyan.com/cau/">中国农业</a></li>
+                    <li><a href="http://yz.kaoyan.com/bnu/">北京师大</a></li>
+                    <li><a href="http://yz.kaoyan.com/jlu/">吉林大学</a></li>
+                    <li><a href="http://yz.kaoyan.com/tongji/">同济大学</a></li>
+                    <li><a href="http://yz.kaoyan.com/nju/">南京大学</a></li>
+                    <li><a href="http://yz.kaoyan.com/hust/">华中科大</a></li>
+                    <li><a href="http://yz.kaoyan.com/neu/">东北大学</a></li>
+                    <li><a href="http://yz.kaoyan.com/seu/">东南大学</a></li>
+                    <li><a href="http://yz.kaoyan.com/zju/">浙江大学</a></li>
+                    <li><a href="http://yz.kaoyan.com/scut/">华南理工</a></li>
+                    <li><a href="http://yz.kaoyan.com/xmu/">厦门大学</a></li>
+                    <li><a href="http://yz.kaoyan.com/hnu/">湖南大学</a></li>
+                    <li><a href="http://yz.kaoyan.com/whu/">武汉大学</a></li>
+                    <li><a href="http://yz.kaoyan.com/lzu/">兰州大学</a></li>
+                    <li><a href="http://yz.kaoyan.com/zsu/">中山大学</a></li>
+                    <li><a href="http://yz.kaoyan.com/csu/">中南大学</a></li>
+                    <li><a href="http://yz.kaoyan.com/cqu/">重庆大学</a></li>
+                    <li><a href="http://yz.kaoyan.com/scu/">四川大学</a></li>
+                    <li><a href="http://yz.kaoyan.com/ustc/">中国科大</a></li>
+                    <li><a href="http://yz.kaoyan.com/bit/">北京理工</a></li>
+                    <li><a href="http://yz.kaoyan.com/hit/">哈 工 大</a></li>
+                    <li><a href="http://yz.kaoyan.com/xjtu/">西安交大</a></li>
+                    <li><a href="http://yz.kaoyan.com/nwpu/">西北工大</a></li>
+                    <li><a href="http://yz.kaoyan.com/uestc/">电子科大</a></li>
+                </ul>                      
+        </div>
+    </div>
+    <div class="col420">
+        <div class="mArea mb20">
+            <ul class="indexTab">
+                <li  class="cur"><a title="院校资讯" href="http://www.kaoyan.com/zixun/">院校资讯</a></li>
+                <li><a title="导师介绍" href="http://www.kaoyan.com/daoshi/">导师介绍</a></li>                                    
+              </ul>
+              <div class="indexTabCon">
+                <div class="tabShow">
+                  <p class="tabKinds">
+<a href="http://www.kaoyan.com/jieshao/" title="考研专业介绍" target="_blank">专业介绍</a>
+<a href="http://www.kaoyan.com/baolubi/" title="考研报录比" target="_blank">报录比</a>
+<a href="http://www.kaoyan.com/fenshuxian/" title="考研分数线" target="_blank">分数线</a>
+<a href="http://www.kaoyan.com/xuejiangzhu/" title="考研学费奖助" target="_blank">学费奖助</a>
+</p>                                   
+                  <ul class="list">
+                      <!--part_27266--><li><a href="http://yz.kaoyan.com/nefu/zixun/58984382020bf.html" title="东北林业大学2016年毕业生就业质量年度报告" target="_blank">东北林业大学2016年毕业生就业质量年度报告</a></li>
+<li><a href="http://yz.kaoyan.com/tongji/zixun/589840dac3f9b.html" title="同济大学2016年毕业生就业质量年度报告" target="_blank">同济大学2016年毕业生就业质量年度报告</a></li>
+<li><a href="http://yz.kaoyan.com/cpu/zixun/587f0128603fc.html" title="中国药科大学2016年毕业生就业质量报告" target="_blank">中国药科大学2016年毕业生就业质量报告</a></li>
+<li><a href="http://yz.kaoyan.com/shisu/zixun/587dd893d63eb.html" title="上海外国语大学2016年毕业生就业质量报告" target="_blank">上海外国语大学2016年毕业生就业质量报告</a></li>
+<li><a href="http://yz.kaoyan.com/neu/zixun/587dd67b672ff.html" title="东北大学2016年毕业生就业质量报告" target="_blank">东北大学2016年毕业生就业质量报告</a></li>
+<li><a href="http://yz.kaoyan.com/fudan/zixun/587dd32dd0da5.html" title="复旦大学2016年毕业生就业质量报告" target="_blank">复旦大学2016年毕业生就业质量报告</a></li>
+<li><a href="http://yz.kaoyan.com/ouc/zixun/587d955586733.html" title="中国海洋大学2016年度毕业生就业质量报告" target="_blank">中国海洋大学2016年度毕业生就业质量报告</a></li>
+                                         
+                    </ul>
+                </div>
+                <div class="tabHide">                  
+                  <p class="tabKinds">
+<a href="http://www.kaoyan.com/tuimian/" title="考研推荐免试" target="_blank">推荐免试</a>
+<a href="http://www.kaoyan.com/zaizhi/" title="考研在职硕士" target="_blank">在职硕士</a>
+<a href="http://www.kaoyan.com/xianchang/" title="考研现场确认" target="_blank">现场确认</a>
+<a href="http://www.kaoyan.com/kaochang/" title="考研考场安排" target="_blank">考场安排</a>
+</p>
+                  <ul class="list">
+                      <!--part_27268--><li><a href="http://yz.kaoyan.com/fudan/daoshi/28/395660/" title="复旦大学硕士导师介绍汇总" target="_blank">复旦大学硕士导师介绍汇总</a></li>
+<li><a href="http://yz.kaoyan.com/zsu/daoshi/5819b26ad912e.html" title="中山大学工学院研究生导师刘强" target="_blank">中山大学工学院研究生导师刘强</a></li>
+<li><a href="http://yz.kaoyan.com/neu/daoshi/57e0f252b842c.html" title="东北大学信息科学与工程学院导师介绍：贾同" target="_blank">东北大学信息科学与工程学院导师介绍：贾同</a></li>
+<li><a href="http://yz.kaoyan.com/eq-igl/daoshi/57c3a937ddc0c.html" title="2017年中国地震局地质研究所硕士研究生导师简介" target="_blank">2017年中国地震局地质研究所硕士研究生导师简介</a></li>
+<li><a href="http://yz.kaoyan.com/gig/daoshi/57bbc78a0b2a3.html" title="2017年中科院广州地化所各专业导师信息" target="_blank">2017年中科院广州地化所各专业导师信息</a></li>
+<li><a href="http://yz.kaoyan.com/xjtu/daoshi/57aec2d87a898.html" title="西安交通大学公共政策与管理学院导师介绍：杨东朗" target="_blank">西安交通大学公共政策与管理学院导师介绍：杨东朗</a></li>
+<li><a href="http://yz.kaoyan.com/xjtu/daoshi/57aebfc6ba208.html" title="西安交通大学公共政策与管理学院导师介绍：毛瑛" target="_blank">西安交通大学公共政策与管理学院导师介绍：毛瑛</a></li>
+                                            
+                    </ul>
+                </div>                           
+              </div>
+        </div>
+        <div class="mArea">
+              <ul class="indexTab">
+                <li  class="cur"><a title="招生信息" href="http://www.kaoyan.com/zhaosheng/">招生信息</a></li>
+                <li><a title="复试录取" href="http://www.kaoyan.com/fushi/">复试录取</a></li>                                    
+              </ul>
+              <div class="indexTabCon">
+                  <div class="tabShow">                    
+                      <p class="tabKinds">
+<a href="http://www.kaoyan.com/jianzhang/" title="考研招生简章" target="_blank">招生简章</a>
+<a href="http://www.kaoyan.com/zhuanye/" title="考研专业目录" target="_blank">专业目录</a>
+<a href="http://www.kaoyan.com/shumu/" title="考研参考书目" target="_blank">参考书目</a>
+</p>                            
+                      <ul class="list">
+                          <!--part_27269--><li><a href="http://yz.kaoyan.com/cuc/zhaosheng/586ca011d0464.html" title="2017年中国传媒大学考研初试科目《汉语基础》试卷问题的说明" target="_blank">2017年中国传媒大学考研初试科目《汉语基础》试卷问题的说明</a></li>
+<li><a href="http://yz.kaoyan.com/cug/zhaosheng/58672da7c3d5c.html" title="2017年中国地质大学（武汉）《普通地质学》补考通知" target="_blank">2017年中国地质大学（武汉）《普通地质学》补考通知</a></li>
+<li><a href="http://yz.kaoyan.com/cueb/zhaosheng/585ca8c783a5d.html" title="2017年首都经济贸易大学入学考试自命题科目使用计算器情况说明" target="_blank">2017年首都经济贸易大学入学考试自命题科目使用计算器情况说明</a></li>
+<li><a href="http://yz.kaoyan.com/ncepu/zhaosheng/585ca24874298.html" title="2017年华北电力大学研究生入学考试初试考前公告" target="_blank">2017年华北电力大学研究生入学考试初试考前公告</a></li>
+<li><a href="http://yz.kaoyan.com/cupl/zhaosheng/585c9e35144f4.html" title="2017年中国政法大学考点考生须知" target="_blank">2017年中国政法大学考点考生须知</a></li>
+<li><a href="http://yz.kaoyan.com/bucm/zhaosheng/585c983bb003c.html" title="2017年北京中医药大学考研考点考前公告" target="_blank">2017年北京中医药大学考研考点考前公告</a></li>
+<li><a href="http://yz.kaoyan.com/tsinghua/zhaosheng/585c92ea63fd1.html" title="2017年清华大学考研考点公告" target="_blank">2017年清华大学考研考点公告</a></li>
+                          
+                      </ul>
+                </div>
+                <div class="tabHide">                   
+                    <p class="tabKinds">
+<a href="http://www.kaoyan.com/chengji/" title="考研成绩查询" target="_blank">成绩查询</a>
+<a href="http://www.kaoyan.com/fushi/xinxi/" title="考研复试信息" target="_blank">考研复试</a>
+<a href="http://www.kaoyan.com/tiaoji/xinxi/" title="考研调剂信息" target="_blank">考研调剂</a>
+<a href="http://www.kaoyan.com/luqu/" title="考研录取信息" target="_blank">考研录取</a>
+</p>
+                    <ul class="list">
+                      <!--part_27270--><li><a href="http://yz.kaoyan.com/qdu/luqu/57c91790a60b0.html" title="2016级青岛大学研究生报到须知" target="_blank">2016级青岛大学研究生报到须知</a></li>
+<li><a href="http://yz.kaoyan.com/shutcm/luqu/57c7bc220669b.html" title="2016级上海中医药大学研究生新生报到地点修改的通知" target="_blank">2016级上海中医药大学研究生新生报到地点修改的通知</a></li>
+<li><a href="http://yz.kaoyan.com/cun/luqu/57c653d50accb.html" title="2016年中央民族大学硕士研究生未发放录取通知书的名单" target="_blank">2016年中央民族大学硕士研究生未发放录取通知书的名单</a></li>
+<li><a href="http://yz.kaoyan.com/shfu/luqu/57c50482f3093.html" title="2016级宁夏师范学院研究生迎新工作方案" target="_blank">2016级宁夏师范学院研究生迎新工作方案</a></li>
+<li><a href="http://yz.kaoyan.com/csu/luqu/57c4fc2b009eb.html" title="2016年中南大学在职攻读硕士专业学位研究生秋季开学通知" target="_blank">2016年中南大学在职攻读硕士专业学位研究生秋季开学通知</a></li>
+<li><a href="http://yz.kaoyan.com/sjzri/luqu/57c40d3162a83.html" title="2016年石家庄铁道大学考研录取新生档案接收情况（8.26持续更新）" target="_blank">2016年石家庄铁道大学考研录取新生档案接收情况（8.26持续更新）</a></li>
+<li><a href="http://yz.kaoyan.com/csu/luqu/57c3f8a223196.html" title="2016年中南大学秋季研究生开学注册通知" target="_blank">2016年中南大学秋季研究生开学注册通知</a></li>
+                      
+                    </ul>
+                  </div>                           
+              </div>
+        </div>        
+    </div>
+    <div class="col250">
+          <p class="subTitle">考研流程</p>
+          <ul class="kyFollow">
+                <li>1. 选择专业：<a href="http://www.kaoyan.com/kaoyan/18/550718/">研究生招生学科排名</a></li>
+                <li>2. 选择学校：<a href="http://www.kaoyan.com/xuanzhuanye/">按专业找学校&专业索引</a></li>
+                <li>3. 关注简章：<a href="http://www.kaoyan.com/jianzhang/55b0aed33cb96.html">16年硕士研究生招生简章</a> </li>
+                <li>4. 关注大纲：<a href="http://www.kaoyan.com/z2014/dagang/">硕士研究生考试大纲解析</a></li>
+                <li>5. 报 名：<a href="http://www.kaoyan.com/z2014/baoming/">硕士研究生考试报考指南</a></li>
+                <li>6. 初 试：<a href="http://www.kaoyan.com/xinwen/zhengce/55f6942397656.html">由教育部考试中心组织</a></li>
+                <li>7. 复 试：<a href="http://www.kaoyan.com/fenshuxian/">分数线</a> <a href="http://www.kaoyan.com/fushi/xinxi/">信息</a> <a href="http://www.kaoyan.com/fushi/jingyan/">经验</a> <a href="http://download.kaoyan.com/tag.php?name=%E5%A4%8D%E8%AF%95">试题</a></li>
+                <li>8. 调 剂：<a href="http://www.kaoyan.com/tiaoji/xinxi/">信息</a> <a href="http://www.kaoyan.com/tiaoji/jingyan/">经验</a> <a href="http://tiaoji.kaoyan.com/">调剂中心</a></li>
+                <li>9. 录 取：<a href="http://www.kaoyan.com/luqu/">录取信息</a> <a href="http://www.kaoyan.com/s/luqutzs/">晒录取通知书</a></li>
+            </ul>
+          <p class="subTitle">报考点列表</p>
+          <script src="http://img.kaoyan.com/www/areasite.js" type="text/javascript"></script>  
+    </div>
+</div>
+<div class="w1000"><script type="text/javascript">BAIDU_CLB_fillSlot("2470641");</script></div>
+<div class="wNav">
+    <h3 class="wNavTitle">复习<span>·</span>资料</h3>    
+</div>
+<div class="w1000">
+    <div class="col300">
+        <div class="leftArea">
+              <p class="allTitle">考研大纲</p>
+              <p><a href="http://www.kaoyan.com/dagang/5413bc7be5054.html">公共课</a></li>
+<ul class="slist kyBaike mb10">                    
+	<li><a href="http://www.kaoyan.com/zhengzhi/dagang/">政治</a></li>
+	<li><a href="http://www.kaoyan.com/yingyu/dagang/">英语</a></li>
+	<li><a href="http://www.kaoyan.com/shuxue/dagang/55fcbcb2b40ff.html">数一</a></li>
+	<li><a href="http://www.kaoyan.com/shuxue/dagang/55fcc1f432c52.html">数二</a></li>
+	<li><a href="http://www.kaoyan.com/shuxue/dagang/55fcc88731237.html">数三</a></li>
+</ul>
+<p><a href="http://www.kaoyan.com/dagang/5413bc7be5054.html">专业课</a></li>
+<ul class="slist kyBaike mb10">
+	<li><a href="http://www.kaoyan.com/zhuanyeke/dagang/55fbb13de0760.html">教育学</a></li>
+	<li><a href="http://www.kaoyan.com/zhuanyeke/dagang/55fb9c683c076.html">计算机</a></li>
+	<li><a href="http://www.kaoyan.com/zhuanyeke/dagang/55fccbd25380c.html">法硕</a></li>
+	<li><a href="http://www.kaoyan.com/zhuanyeke/dagang/">金融学</a></li>
+	<li><a href="http://www.kaoyan.com/zhuanyeke/dagang/55fbde8a1b388.html">管理学</a></li>
+	<li><a href="http://www.kaoyan.com/zhuanyeke/dagang/55fbd743e2e64.html">历史学</a></li>
+	<li><a href="http://www.kaoyan.com/zhuanyeke/dagang/55fbd0f8ad3a4.html">心理学</a></li>
+	<li><a href="http://www.kaoyan.com/zhuanyeke/dagang/55fbccb930f87.html">农学</a></li>
+	<li><a href="http://www.kaoyan.com/zhuanyeke/dagang/55fbd3188db98.html">西医</a></li>
+	<li><a href="http://www.kaoyan.com/zhuanyeke/dagang/55fcdc9d23a0d.html">中医</a></li>
+</ul> 
+              <p class="allTitle">历年真题</p>
+              <p><a href="http://download.kaoyan.com/?gid=959">公共课</a></li>
+              <ul class="slist kyBaike mb10">                    
+                  <li><a href="http://download.kaoyan.com/list-961-t-1">政治</a></li>
+                  <li><a href="http://download.kaoyan.com/list-962-t-1">英语</a></li>
+                  <li><a href="http://download.kaoyan.com/download-1064644p1">数一</a></li>
+                  <li><a href="http://download.kaoyan.com/download-1064609p1">数二</a></li>
+                  <li><a href="http://download.kaoyan.com/download-1064602p1">数三</a></li>
+              </ul>
+              <p><a href="http://download.kaoyan.com/?gid=959">专业课</a></li>
+              <ul class="slist kyBaike">
+                  <li><a href="http://download.kaoyan.com/list-971-t-1">教育学</a></li>
+                  <li><a href="http://download.kaoyan.com/list-973-t-1">计算机</a></li>
+                  <li><a href="http://download.kaoyan.com/list-970-t-1">历史学</a></li>
+                  <li><a href="http://download.kaoyan.com/list-969-t-1">心理学</a></li>
+                  <li><a href="http://download.kaoyan.com/list-965-t-1">西医综合</a></li>
+                  <li><a href="http://download.kaoyan.com/list-966">中医综合</a></li>
+                  <li><a href="http://download.kaoyan.com/list-967-t-1">法硕</a></li>
+                  <li><a href="http://download.kaoyan.com/?gid=959">其他</a></li>
+              </ul>            
+        </div>
+    </div>
+    <div class="col420">
+        <div class="mArea mb20">
+            <ul class="indexTab">
+                <li  class="cur"><a title="考研资料" href="http://www.kaoyan.com/ziliao/">考研资料</a></li>
+                <li><a title="考研真题" href="http://www.kaoyan.com/zhenti/">考研真题</a></li>                                    
+              </ul>
+              <div class="indexTabCon">
+                <div class="tabShow">                
+                  <p class="tabKinds">
+<a href="http://download.kaoyan.com/list-961" title="考研政治资料" target="_blank">政治</a>
+<a href="http://download.kaoyan.com/list-962" title="考研英语资料" target="_blank">英语</a>
+<a href="http://download.kaoyan.com/list-963" title="考研数学资料" target="_blank">数学</a>
+<a href="http://download.kaoyan.com/list-967" title="考研法硕资料" target="_blank">法硕</a>
+<a href="http://download.kaoyan.com/list-973" title="考研计算机资料" target="_blank">计算机</a>
+<a href="http://download.kaoyan.com/list-970" title="考研历史资料" target="_blank">历史</a>
+<a href="http://download.kaoyan.com/list-971" title="考研教育资料" target="_blank">教育</a>
+<a href="http://download.kaoyan.com/list-969" title="考研心理资料" target="_blank">心理</a>
+<a href="http://www.kaoyan.com/dagang/" title="考研大纲" target="_blank">大纲</a>
+</p>                     
+                  <ul class="list">
+                      <!--part_27271--><li><a href="http://yz.kaoyan.com/ccnu/ziliao/58648807b0e44.html" title="【华中师大】初试备考攻略" target="_blank">【华中师大】初试备考攻略</a></li>
+<li><a href="http://download.kaoyan.com/download-1069591p1" title="2013年厦门大学807金融学考研真题" target="_blank">2013年厦门大学807金融学考研真题</a></li>
+<li><a href="http://download.kaoyan.com/download-1069590p1" title="2014年华北电力大学811电力系统及其自动化考研真题" target="_blank">2014年华北电力大学811电力系统及其自动化考研真题</a></li>
+<li><a href="http://download.kaoyan.com/download-1069589p1" title="2015年华北电力大学817电力系统及其自动化考研真题" target="_blank">2015年华北电力大学817电力系统及其自动化考研真题</a></li>
+<li><a href="http://download.kaoyan.com/download-1069588p1" title="2012年北邮通信考研801真题及答案" target="_blank">2012年北邮通信考研801真题及答案</a></li>
+<li><a href="http://download.kaoyan.com/download-1069587p1" title="2014年北邮804信号与系统考研真题" target="_blank">2014年北邮804信号与系统考研真题</a></li>
+                       
+                    </ul>
+                </div>
+                <div class="tabHide">                  
+                  <p class="tabKinds">
+<a href="http://www.kaoyan.com/yingyu/zhenti/" title="考研英语真题" target="_blank">英语</a>
+<a href="http://www.kaoyan.com/shuxue/zhenti/" title="考研数学真题" target="_blank">数学</a>
+<a href="http://www.kaoyan.com/zhengzhi/zhenti/" title="考研政治真题" target="_blank">政治</a>
+<a href="http://www.kaoyan.com/zhuanyeke/zhenti/" title="考研专业课真题" target="_blank">专业课</a>
+<a href="http://www.kaoyan.com/book/" title="考研图书" target="_blank">图书</a>
+</p>
+                  <ul class="list">
+                      <!--part_27272--><li><a href="http://yz.kaoyan.com/ysu/zhenti/5822d03ddf39a.html" title="2016年燕山大学考研试题" target="_blank">2016年燕山大学考研试题</a></li>
+<li><a href="http://yz.kaoyan.com/ysu/zhenti/5822c89e77bd7.html" title="2015年燕山大学考研试题" target="_blank">2015年燕山大学考研试题</a></li>
+<li><a href="http://yz.kaoyan.com/huat/zhenti/5822c594a1754.html" title="2015年湖北汽车工业学院考研试题（汇总）" target="_blank">2015年湖北汽车工业学院考研试题（汇总）</a></li>
+<li><a href="http://yz.kaoyan.com/huat/zhenti/5822c4bbd25c2.html" title="2015年湖北汽车工业学院高分子化学考研试题" target="_blank">2015年湖北汽车工业学院高分子化学考研试题</a></li>
+<li><a href="http://yz.kaoyan.com/huat/zhenti/5822c46e11f36.html" title="2015年湖北汽车工业学院汽车理论考研试题" target="_blank">2015年湖北汽车工业学院汽车理论考研试题</a></li>
+<li><a href="http://yz.kaoyan.com/huat/zhenti/5822c40e1f835.html" title="2015年湖北汽车工业学院电子技术基础（数电）考研试题" target="_blank">2015年湖北汽车工业学院电子技术基础（数电）考研试题</a></li>
+                       
+                    </ul>
+                </div>                           
+              </div>
+        </div> 
+        <div class="mArea">
+            <ul class="indexTab">
+                <li  class="cur"><a title="考研经验" href="http://www.kaoyan.com/jingyan/">考研经验</a></li>
+                <li><a title="考研问答" href="http://www.kaoyan.com/wenda/">考研问答</a></li>                                    
+              </ul>
+              <div class="indexTabCon">
+                <div class="tabShow">
+                  <p class="tabKinds">
+<a href="http://www.kaoyan.com/baokao/jingyan/" title="报考经验" target="_blank">报考</a>
+<a href="http://www.kaoyan.com/beikao/jingyan/" title="备考经验" target="_blank">备考</a>
+<a href="http://www.kaoyan.com/fushi/jingyan/" title="复试经验" target="_blank">复试</a>
+<a href="http://www.kaoyan.com/tiaoji/jingyan/" title="调剂经验" target="_blank">调剂</a>
+<a href="http://www.kaoyan.com/beikao/xinlu/" title="心路历程" target="_blank">心路历程</a>
+<a href="http://www.kaoyan.com/beikao/xinli/" title="心理调节" target="_blank">心理调节</a>
+</p>
+                  <ul class="list">
+                      <!--part_27331--><li><a href="http://yz.kaoyan.com/cun/jingyan/58a57dab391c9.html" title="不忘初心：放弃调剂，选择二战" target="_blank">不忘初心：放弃调剂，选择二战</a></li>
+<li><a href="http://yz.kaoyan.com/cun/jingyan/58a173ca1d466.html" title="写给18考研—考研经验分享" target="_blank">写给18考研—考研经验分享</a></li>
+<li><a href="http://yz.kaoyan.com/zsu/jingyan/589aeaf776e89.html" title="经验分享：四跨生的两年考研路" target="_blank">经验分享：四跨生的两年考研路</a></li>
+<li><a href="http://yz.kaoyan.com/xmu/jingyan/5899a5f2865f4.html" title="360度看穿考研：祭奠我两年的考研生涯" target="_blank">360度看穿考研：祭奠我两年的考研生涯</a></li>
+<li><a href="http://yz.kaoyan.com/bnu/jingyan/5899902d98802.html" title="夜空中最亮的星——北师学姐经验分享" target="_blank">夜空中最亮的星——北师学姐经验分享</a></li>
+<li><a href="http://yz.kaoyan.com/pku/jingyan/587369ad516a0.html" title="【复试经验】北大心理学学姐谈复试过程" target="_blank">【复试经验】北大心理学学姐谈复试过程</a></li>
+                       
+                    </ul>
+                </div>
+                <div class="tabHide">
+                  <p class="tabKinds">
+<a href="http://www.kaoyan.com/xinwen/" title="新闻资讯" target="_blank">新闻资讯</a>
+<a href="http://www.kaoyan.com/xinwen/zhengce/" title="政策新闻" target="_blank">政策新闻</a>
+<a href="http://www.kaoyan.com/xinwen/kandian/" title="时评看点" target="_blank">时评看点</a>
+</p>
+                  <ul class="list">
+                      <!--part_27332--><li><a href="http://yz.kaoyan.com/bicea/wenda/5808da0796284.html" title="2017年北京建筑大学建筑学院考研自命题答疑安排" target="_blank">2017年北京建筑大学建筑学院考研自命题答疑安排</a></li>
+<li><a href="http://yz.kaoyan.com/nuist/wenda/57d65a21cb4f9.html" title="2017年南京信息工程大学考研常见问题解答" target="_blank">2017年南京信息工程大学考研常见问题解答</a></li>
+<li><a href="http://yz.kaoyan.com/buaa/wenda/57be6b716cbdb.html" title="2017年北京航空航天大学考研相关咨询及解答" target="_blank">2017年北京航空航天大学考研相关咨询及解答</a></li>
+<li><a href="http://yz.kaoyan.com/stu/wenda/57b7f5d2a1374.html" title="2017年汕头大学硕士研究生招生问答（非医学专业）" target="_blank">2017年汕头大学硕士研究生招生问答（非医学专业）</a></li>
+<li><a href="http://yz.kaoyan.com/lzcc/wenda/57b698e4bb143.html" title="2017年兰州财经大学考研招生问答" target="_blank">2017年兰州财经大学考研招生问答</a></li>
+<li><a href="http://yz.kaoyan.com/bac/wenda/57b427512f921.html" title="2017年北京农学院硕士研究生考研问答" target="_blank">2017年北京农学院硕士研究生考研问答</a></li>
+                       
+                    </ul>
+                </div>                           
+              </div>
+        </div>          
+    </div>
+    <div class="col250">        
+        <p class="subTitle"><a href="http://www.kaoyan.com/exercise/">每日一练</a></p>       
+        <ul class="slist kyBaike mb10">
+	<li><a href="http://www.kaoyan.com/zhengzhi/lianxi/">政治</a></li>
+	<li><a href="http://www.kaoyan.com/yingyu/lianxi/">英语</a></li>
+	<li><a href="http://www.kaoyan.com/shuxue/lianxi/">数学</a></li>
+	<li><a href="http://www.kaoyan.com/zhuanyeke/lianxi/">法硕</a></li>
+	<li><a href="http://www.kaoyan.com/zhuanyeke/lianxi//">经济联考</a></li>
+	<li><a href="http://www.kaoyan.com/zhuanyeke/lianxi/">计算机</a></li>
+	<li><a href="http://www.kaoyan.com/zhuanyeke/lianxi/">西医</a></li>
+	<li><a href="http://mpacc.kaoyan.com/beikao/">MPAcc</a></li>
+	<li><a href="http://www.kaoyan.com/zhuanyeke/lianxi/">日语</a></li>
+	<li><a href="http://www.kaoyan.com/zhuanyeke/lianxi/">行政学</a></li>
+	<li><a href="http://www.kaoyan.com/zhuanyeke/lianxi/">翻译硕士</a></li>
+	<li><a href="http://www.kaoyan.com/zhuanyeke/lianxi/">保险硕士</a></li>
+	<li><a href="http://www.kaoyan.com/zhuanyeke/lianxi/">金融硕士</a></li>
+	<li><a href="http://www.kaoyan.com/zhuanyeke/lianxi/">税务硕士</a></li>
+	<li><a href="http://www.kaoyan.com/zhuanyeke/lianxi/">新闻与传播硕士</a></li>
+</ul>            
+        <p class="subTitle"><a href="http://www.kaoyan.com/exercise/">在线课程</a></p>
+        <ul class="videoList mt10">
+           <!--part_28448--><li><a href="http://www.kaoyan.com/yingyu/shipin/56eb78007e9e7.html" title="【视频】名师朱泰祺2017考研英语基础复习答疑" target="_blank">【视频】名师朱泰祺2017考研英语基础复习答疑</a></li>
+<li><a href="http://www.kaoyan.com/yingyu/shipin/56654bda44f36.html" title="【视频】名师答疑：朱泰祺2016考研英语冲刺答疑" target="_blank">【视频】名师答疑：朱泰祺2016考研英语冲刺答疑</a></li>
+<li><a href="http://www.kaoyan.com/zhuanyeke/shipin/55fbc62377424.html" title="【视频】杨净2016考研西医综合大纲详解" target="_blank">【视频】杨净2016考研西医综合大纲详解</a></li>
+<li><a href="http://www.kaoyan.com/shuxue/shipin/55fbc378e7d3d.html" title="【视频】高远2016考研数学大纲详解" target="_blank">【视频】高远2016考研数学大纲详解</a></li>
+<li><a href="http://www.kaoyan.com/zhengzhi/shipin/55fbbf8241288.html" title="【视频】刘晓亮2016考研政治大纲变动详解" target="_blank">【视频】刘晓亮2016考研政治大纲变动详解</a></li>
+<li><a href="http://www.kaoyan.com/zhuanyeke/shipin/55fbbc932ee65.html" title="【视频】刘玉芳2016考研管综大纲详解" target="_blank">【视频】刘玉芳2016考研管综大纲详解</a></li>
+<li><a href="http://www.kaoyan.com/yingyu/shipin/55fb9203c7cd8.html" title="【视频】夏徛荣2016考研英语大纲详解" target="_blank">【视频】夏徛荣2016考研英语大纲详解</a></li>
+             
+        </ul>        
+    </div>
+</div>  
+<div class="friendLink">
+<p class="linkHd"><strong>友情链接</strong></p>
+<div class="linkBd">
+<a href="http://www.kaoyan.com/chengji/" target="_blank">考研成绩查询</a>
+<a href="http://www.kaoyan.com/fenshuxian/" target="_blank">考研分数线</a>
+<a href="http://www.kaoyan.com/fushi/" target="_blank">考研复试</a>
+<a href="http://tiaoji.kaoyan.com/" target="_blank">考研调剂</a>
+<a href="http://www.jiyifa.cn/" target="_blank">记忆宫殿</a>
+<a href="http://shici.chazidian.com/" target="_blank">诗词大全</a>
+<a href="http://ah.huatu.com/" target="_blank">安徽人事考试网</a>
+<a href="http://www.bangxuetang.com/" target="_blank">帮学堂</a>
+<a href="http://kaoshi.yjbys.com/" target="_blank">考试信息网</a>
+<a href="http://gd.offcn.com" target="_blank">广东人事考试</a>
+<a href="http://www.hhxx.com.cn" target="_blank">好好学习</a>
+<a href="http://www.xueersi.com/xue" target="_blank">学而思网校</a>
+</div>
+</div>
+<p class="clearFooter"></p>
+<div class="footer">
+    <a href="http://bang.kaoyan.com/" rel="nofollow" target="_blank" class="qrcode">
+        <img src="http://img.kybimg.com/home/images/qrcode_kyb.png">
+        <span>下载考研帮app</span>
+    </a>
+    <script src="http://img.kaoyan.com/www/footera.js" type="text/javascript"></script>
+    - <a href="http://www.kaoyan.com/sitemap/">网站地图</a> - <a href="http://www.kaoyan.com/yzsitemap/">院校地图</a> - <a href="http://www.kaoyan.com/update/">最新更新</a> - <a href="http://www.kaoyan.com/chengji/">2017考研成绩查询</a> - <a href="http://www.kaoyan.com/fenshuxian/">2017考研分数线</a>
+    <script src="http://img.kaoyan.com/www/footerb.js" type="text/javascript"></script>
+    <p class="fGray">
+        <a key="553dfde758725379d18af4fa" logo_size="83x30" logo_type="business" href="http://www.anquan.org" rel="nofollow">
+            <script src="http://static.anquan.org/static/outer/js/aq_auth.js"></script>
+        </a>
+    </p>
+</div>
+<script type='text/javascript' src='http://img.kaoyan.com/global/js/gcc.js'></script>
+<script type="text/javascript" src="http://img.kaoyan.com/yz/js/jquery.1.9.1.min.js"></script>
+<script type="text/javascript" src="http://img.kaoyan.com/yz/js/school_city.js"></script>
+<script type="text/javascript" src="http://img.kaoyan.com/yz/js/jquery.select.1.3.8.js"></script>
+<script type="text/javascript" src="http://img.kaoyan.com/yz/js/yz.index.packed.js"></script>
+<script src="http://img.kaoyan.com/js/app/pc/adsys/index.js"></script>
+<script src="http://img.kybimg.com/js/app/pc/celebrate.js"></script>
+</body>
+</html>
